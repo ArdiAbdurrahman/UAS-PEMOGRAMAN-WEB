@@ -1,1 +1,28 @@
-# UAS-PEMOGRAMAN-WEB
+NAMA    : MUHAMMAD ARDI ABDURRAHMAN
+KELAS   : TI.20.D.1
+NIM     : 312010075
+MATAKULIAH: PEMOGRAMAN WEB
+
+UAS ! 
+MATERI TENTANG PELAYANAN BANK MINI
+
+HALAMAN DEPAN 
+![1](https://user-images.githubusercontent.com/101821904/179213187-5d7952c6-d05b-4f5b-bb9f-e8b323659bd2.png)
+
+HALAMAN LOGIN UNTUK STAFF BANK
+![LOGIN](https://user-images.githubusercontent.com/101821904/179213658-e4f04834-cb7f-4bef-b1db-3d480c97b971.png)
+
+
+LOKET
+![lOKET](https://user-images.githubusercontent.com/101821904/179213229-9a0f67ce-3d52-4f4e-a13c-69c4186262ce.png)
+
+PELAYANAN
+![PELAYANAN](https://user-images.githubusercontent.com/101821904/179213268-f5f55249-5039-4866-a783-9917d15f8012.png)
+
+MELIHAT DAFTAR YANG SUDAH MENGAMBIL NOMER ANTRIAN
+![DAFTAR ANTRIAN](https://user-images.githubusercontent.com/101821904/179213217-e8caa5ee-ec26-4d93-8e9d-8e5bdb1e2959.png)
+
+
+HALAMAN WEB   : abdur.my.id/antrian
+USERNAME      : 312010075
+PASSWORD      : 29122000
